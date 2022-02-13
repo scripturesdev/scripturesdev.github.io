@@ -6,7 +6,8 @@ This is my landing page for all my publications and projects in one page.
 
 ### D.E.V.A.S - Distributed Enterprise Vulnerability Assessment Scanner
 
-[Link](https://search.ebscohost.com/login.aspx?direct=true&db=cat07470a&AN=clc.fc9e4c71.ee5d.4c31.b009.246fadcfa1a3&site=eds-live&scope=site&authtype=guest&custid=s3911979&groupid=main&profile=eds)
+[Link to Publication](https://search.ebscohost.com/login.aspx?direct=true&db=cat07470a&AN=clc.fc9e4c71.ee5d.4c31.b009.246fadcfa1a3&site=eds-live&scope=site&authtype=guest&custid=s3911979&groupid=main&profile=eds)
+[Download paper](https://github.com/scripturesdev/scripturesdev.github.io/blob/master/files/Master%20Thesis%20-%20DEVAS.pdf)
 
 ### Bachelors Thesis - Security Inventory of my University Network
 
