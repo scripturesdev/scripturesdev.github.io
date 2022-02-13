@@ -5,14 +5,16 @@ This is my landing page for all my publications and projects in one page.
 ## My Publications
 
 ### [D.E.V.A.S - Distributed Enterprise Vulnerability Assessment Scanner](https://search.ebscohost.com/login.aspx?direct=true&db=cat07470a&AN=clc.fc9e4c71.ee5d.4c31.b009.246fadcfa1a3&site=eds-live&scope=site&authtype=guest&custid=s3911979&groupid=main&profile=eds)
-- This was a big and successful security project at an unnamed international company, which became my master thesis. Many technical details has been removed to keep the company details anonymous.
-
 [Download paper](https://github.com/scripturesdev/scripturesdev.github.io/blob/master/files/Master%20Thesis%20-%20DEVAS.pdf)
 
-### [Bachelors Thesis - Security Inventory of my University Network](https://github.com/scripturesdev/scripturesdev.github.io/blob/master/files/D3SI%20-rapport.pdf)
-- Disclaimer: The systems and vulnerabilities found in this paper are outdated (2006) and changed long time ago. The mentioned systems no longer exists, thus no issues publishing this paper online. 
+- This was a big and successful security project at an unnamed international company, which became my master thesis. Many technical details has been removed to keep the company details anonymous.
 
+
+
+### [Bachelors Thesis - Security Inventory of my University Network](https://github.com/scripturesdev/scripturesdev.github.io/blob/master/files/D3SI%20-rapport.pdf)
 [Download paper - Swedish Language only](https://github.com/scripturesdev/scripturesdev.github.io/blob/master/files/D3SI%20-rapport.pdf)
+
+- Disclaimer: The systems and vulnerabilities found in this paper are outdated (2006) and changed long time ago. The mentioned systems no longer exists, thus no issues publishing this paper online. 
 
 ## My Projects
 ### [OAUTH FLOWS](https://chrome.google.com/webstore/detail/oauth-flows/dandckbjghfejnhmnhloigndkeabdbbo)
